@@ -1,6 +1,8 @@
 # LAB 3: EXPLORING SPATIAL DATA USING PYTHON
 Due: 14 April 2020
 
+Please refer to Descriptions Doc in this repository.
+
 ##  WHAT TO SUBMIT
 You will submit a file to your Github repo via Moodle. You will need to create your own `.py` files for the repo. *Be sure they all contain good comment headers!* Your repo should contain:
 - `Lab3_shape_exists.py` - Use in-line comments to explain what each line of code is doing.
